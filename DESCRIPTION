@@ -6,6 +6,6 @@ Description: Identifies clonal entities from sequenced populations of cells, usi
 Maintainer: Chris Miller <cmiller@genome.wustl.edu>
 LazyLoad: yes
 License: Apache License 2.0 | file LICENSE
-Depends: IRanges, bmm, rgl, RColorBrewer, ggplot2, grid, plotrix,
+Depends: IRanges, bmm, RColorBrewer, ggplot2, grid, plotrix,
         methods, NORMT3, MKmisc, TeachingDemos
 Packaged: 2014-10-29 12:34:09 PM; cmiller
